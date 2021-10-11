@@ -4,4 +4,4 @@
 
 ![Cute kitten](https://picsum.photos/400/600)
 
-![RANDOM Picture](https://picsum.photos/400/600)
+![RANDOM Picture](https://picsum.photos/400/600?random=2)
